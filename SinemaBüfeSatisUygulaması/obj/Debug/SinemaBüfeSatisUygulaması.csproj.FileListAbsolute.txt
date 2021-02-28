@@ -1,0 +1,10 @@
+C:\Users\90553\Desktop\udemy\SinemaBüfeSatisUygulaması\SinemaBüfeSatisUygulaması\bin\Debug\SinemaBüfeSatisUygulaması.exe.config
+C:\Users\90553\Desktop\udemy\SinemaBüfeSatisUygulaması\SinemaBüfeSatisUygulaması\bin\Debug\SinemaBüfeSatisUygulaması.exe
+C:\Users\90553\Desktop\udemy\SinemaBüfeSatisUygulaması\SinemaBüfeSatisUygulaması\bin\Debug\SinemaBüfeSatisUygulaması.pdb
+C:\Users\90553\Desktop\udemy\SinemaBüfeSatisUygulaması\SinemaBüfeSatisUygulaması\obj\Debug\SinemaBüfeSatisUygulaması.csprojAssemblyReference.cache
+C:\Users\90553\Desktop\udemy\SinemaBüfeSatisUygulaması\SinemaBüfeSatisUygulaması\obj\Debug\SinemaBüfeSatisUygulaması.Form1.resources
+C:\Users\90553\Desktop\udemy\SinemaBüfeSatisUygulaması\SinemaBüfeSatisUygulaması\obj\Debug\SinemaBüfeSatisUygulaması.Properties.Resources.resources
+C:\Users\90553\Desktop\udemy\SinemaBüfeSatisUygulaması\SinemaBüfeSatisUygulaması\obj\Debug\SinemaBüfeSatisUygulaması.csproj.GenerateResource.cache
+C:\Users\90553\Desktop\udemy\SinemaBüfeSatisUygulaması\SinemaBüfeSatisUygulaması\obj\Debug\SinemaBüfeSatisUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\90553\Desktop\udemy\SinemaBüfeSatisUygulaması\SinemaBüfeSatisUygulaması\obj\Debug\SinemaBüfeSatisUygulaması.exe
+C:\Users\90553\Desktop\udemy\SinemaBüfeSatisUygulaması\SinemaBüfeSatisUygulaması\obj\Debug\SinemaBüfeSatisUygulaması.pdb
