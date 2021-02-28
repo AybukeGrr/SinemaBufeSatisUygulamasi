@@ -1,1 +1,1 @@
-# SinemaB-feSatisUygulamasi
+# SinemaBufeSatisUygulama
